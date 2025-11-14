@@ -1,5 +1,5 @@
 // components/CreateModal.tsx
-'use client'
+'use client';
 
 import React, { useState } from 'react';
 import { X } from 'lucide-react';
@@ -154,3 +154,4 @@ const CreateModal: React.FC<ModalProps> = ({ type, onClose, user }) => {
 };
 
 export default CreateModal;
+
