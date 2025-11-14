@@ -1,3 +1,5 @@
+'use client';
+
 import React from "react";
 import ImageCarouselFallback from "../carrousel/page";
 
@@ -173,5 +175,6 @@ const HomePage = () => {
         </div>
     );
 };
+
 
 export default HomePage;
