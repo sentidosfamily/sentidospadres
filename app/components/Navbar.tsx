@@ -82,7 +82,7 @@ const Navbar: React.FC<NavbarProps> = ({ user, onLogout, onOpenModal }) => {
                             </div>
                         </Link>
 
-                        <span className="text-2xl font-bold text-gray-800">Sentidos</span>
+                        <span className="text-2xl font-bold text-gray-800">Sentidos desde Github</span>
                     </div>
 
                     <div className="hidden md:flex items-center gap-6">
