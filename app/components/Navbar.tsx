@@ -12,6 +12,7 @@ interface User {
     rol: 'admin' | 'user' | 'moderator';
 }
 
+
 interface UserContextType {
     user: User | null;
     isLoading: boolean;
