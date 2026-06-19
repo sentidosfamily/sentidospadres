@@ -76,7 +76,7 @@ const Navbar: React.FC<NavbarProps> = ({ user, onLogout, onOpenModal }) => {
                         <Link href="/">
                             <div className="w-12 h-12 bg-gradient-to-br from-orange-400 to-orange-600 rounded-full flex items-center justify-center overflow-hidden cursor-pointer hover:scale-105 transition-transform">
                                 <img
-                                    src="/assets/logo.png"
+                                    src="../assets/Sentidoslogo.jpg"
                                     alt="Logo Sentidos"
                                     className="w-full h-full object-cover"
                                 />
